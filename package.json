@@ -1,0 +1,19 @@
+{
+  "name": "temporary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceciil/temporary.git"
+  },
+  "author": "Angela Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ceciil/temporary/issues"
+  },
+  "homepage": "https://github.com/Ceciil/temporary#readme"
+}
