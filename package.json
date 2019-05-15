@@ -1,24 +1,23 @@
 {
-  "name": "temporary",
+  "name": "boat",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mockup for an all-in-one booking application.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
     "start": "npm-run-all --parallel devserver watch:sass"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ceciil/temporary.git"
+    "url": "git+https://github.com/Ceciil/boat.git"
   },
   "author": "Angela Lee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ceciil/temporary/issues"
+    "url": "https://github.com/Ceciil/boat/issues"
   },
-  "homepage": "https://github.com/Ceciil/temporary#readme",
+  "homepage": "https://github.com/Ceciil/boat#readme",
   "devDependencies": {
     "node-sass": "^4.12.0",
     "npm-run-all": "^4.1.5"
